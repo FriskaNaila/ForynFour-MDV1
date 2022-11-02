@@ -12,7 +12,7 @@ global.kontak = ['6285695430855']
 global.naown = 'ZnZ Botz'
 global.noown = '6285695430855'
 global.namebot = 'ZnZ Botz'
-global.nobot = '6289502319715'
+global.nobot = '6285695430855'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
@@ -54,7 +54,7 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ ZnZ Botz | BOT WHATSAPP MD'
 global.watermark = wm
 global.wm2 = '⫹⫺ ZnZ Botz | BOT WHATSAPP MD'
 global.wm3 = '⫹⫺ ZnZ Botz | BOT WHATSAPP MD'
