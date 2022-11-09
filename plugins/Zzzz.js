@@ -10,7 +10,7 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 youtube.com/c/hokenbeusz
 
 📮 GITHUB :
-github.com/krizynofc/forynfour-MDV1
+github.com/FriskaNaila/forynfour-MDV1
 
 📮 JANGAN LUPA MAMPIR :
 https://lynk.id/kri.com`
