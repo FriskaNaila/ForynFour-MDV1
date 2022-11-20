@@ -26,8 +26,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'github.com/FriskaNaila', true],
-         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'alifnurrochman82@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ZnZ Botz', 'github.com/FriskaNaila', true],
+         [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ZnZ Botz', 'alifnurrochman82@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -46,7 +46,7 @@ handler.all = async function (m) {
 					body: wm,
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(media)).buffer(),
-					sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/mhdfakri_`, `https://youtube.com/hokenbeusz`])}`,
+					sourceUrl: `${pickRandom([`https://www.instagram.com/alifnurrochman705`, `https://www.youtube.com/channel/UCJtbDs6xhMeepm-yYTg6unA`])}`,
 				}
 			}
 		}
@@ -86,7 +86,7 @@ global.ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'KrizynOfc', //Kasih namalu
+                            message: 'Znz Botz', //Kasih namalu
                             orderTitle: tb,
                             thumbnail: fs.readFileSync('./media/krizyn.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
@@ -112,7 +112,7 @@ global.floc = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "locationMessage": { "title":"Aceh","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
+	 message: { "locationMessage": { "title":"Jkt","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
 	}
 	
 global.fliveLoc = {
@@ -136,7 +136,7 @@ global.fliveLoc2 = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "contactMessage": { "title":"krizyn","h": `haloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
+	 message: { "contactMessage": { "title":"ZnZ Botz","h": `haloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
 	}
 	
  global.fcona = {
